@@ -5,12 +5,14 @@ body{
 .project_heading{
     color:white;
     font-size: 40px;
+    text-align: center;
 }
 .project_subheading{
     color:white;
     font-size: 20px;
     margin-bottom: 30px;
     padding: 20px 0px;
+    text-align: center;
 }
 .project_text{
     color:white;
