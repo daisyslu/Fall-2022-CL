@@ -1,0 +1,32 @@
+body{
+    background-color: darkgray;
+    padding: 10px 30px 100px 30px;
+}
+.project_heading{
+    color:white;
+    font-size: 40px;
+    text-align: center;
+}
+.project_subheading{
+    color:white;
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding: 20px 0px;
+    text-align: center;
+}
+.project_text{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.project_section{
+    padding-top: 10px;
+    width: 100%;
+    text-align: center;
+}
+.project_image{
+    width: 32%;
+    height: 49%;
+}
