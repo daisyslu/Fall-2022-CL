@@ -1,1 +1,1 @@
-Not much different from last week. I just organized my files, changed one of the js interactions (from color change to fontsize change), and listed out the next steps
+Not much different from last week. I just organized my files, changed one of the javascript interactions (from color change to fontsize change), and listed out the next steps in javascript.
